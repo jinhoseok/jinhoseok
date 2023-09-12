@@ -1,5 +1,5 @@
 ### GitHub 시작하기 👋
-###: 안녕하세요 jinhoseok입니다.
+### 안녕하세요 jinhoseok입니다.
 <!--
 **jinhoseok/jinhoseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
